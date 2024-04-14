@@ -1,0 +1,10 @@
+To Kill a Mockingbird, Harper Lee, Fiction, 1960, 111111111, True
+1984, George Orwell, Dystopia, 1949, 222222222, True
+Pride and Prejudice, Jane Austen, Romance, 1813, 333333333, True
+The Great Gatsby, F. Scott Fitzgerald, Novel, 1925, 444444444, True
+Moby Dick, Herman Melville, Adventure, 1851, 555555555, True
+War and Peace, Leo Tolstoy, Historical, 1869, 666666666, True
+Hamlet, William Shakespeare, Tragedy, 1603, 777777777, True
+The Catcher in the Rye, J.D. Salinger, Novel, 1951, 888888888, True
+The Hobbit, J.R.R. Tolkien, Fantasy, 1937, 999999999, True
+Fahrenheit 451, Ray Bradbury, Dystopian, 1953, 101010101, True
